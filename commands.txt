@@ -1,0 +1,10 @@
+composer create-project laravel/laravel example-app
+composer require laravel/ui
+php artisan ui bootstrap --auth
+npm install
+npm run dev
+
+
+https://www.youtube.com/playlist?list=PLCm7ZeRfGSP6NeupdX_K9-Qm3ROqGud-t
+https://www.youtube.com/playlist?list=PLftLUHfDSiZ7pKXkpGCoZATm5rF6msj5A
+https://www.youtube.com/playlist?list=PL6XRLlEsQ_7UgRsr8v70fSbMQKW7O5o9H
